@@ -1,0 +1,16 @@
+{
+  "umamusume": [
+    { "name": "Iron Ship", "Style": "End Closer", "Track": "Turf" },
+    {
+      "name": "El Condor Pasa",
+      "Style": "Pace Chaser",
+      "Track": "Turf - Dirt"
+    },
+    { "name": "Haru Urara", "Style": "Late Surger", "Track": "Dirt" }
+  ],
+  "genshinimpact": [
+    { "name": "Navia", "element": "Electro", "weapon": "Claymore" },
+    { "name": "Kamisato Ayaka", "element": "Cryo", "weapon": "Sword" },
+    { "name": "Raiden Shogun", "element": "Electro", "weapon": "Polearm" }
+  ]
+}
